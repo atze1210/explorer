@@ -74,7 +74,7 @@
     "cheerio": "1.0.0-rc.3",
     "enzyme": "3.11.0",
     "enzyme-adapter-react-17-updated": "^1.0.2",
-    "eslint": "^8.57.0",
+    "eslint": "^9.0.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-react-app": "^7.0.1",
